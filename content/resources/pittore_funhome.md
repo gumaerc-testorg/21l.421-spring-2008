@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Example of student work: "The Art of the Tragicomicbook: How Bechdel
   uses comics to her advantage in creating Fun Home" by Emily Pittore.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-421-comedy-spring-2008/ec692dd8ba8d716dfd6db41f480a6920_pittore_funhome.pdf
+file: /media/courses/21l-421-comedy-spring-2008/ec692dd8ba8d716dfd6db41f480a6920_pittore_funhome.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'The Art of the Tragicomicbook: How Bechdel uses comics to her advantage in
   creating Fun Home'
