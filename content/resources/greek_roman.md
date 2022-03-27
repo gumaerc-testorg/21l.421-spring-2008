@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 5c91f473-6c70-5367-a126-751fac4ff4b4
 resourcetype: Document
 title: Greek and Roman Comedy
 uid: 512b6ac7-4335-b981-b57c-ac661c3206ba

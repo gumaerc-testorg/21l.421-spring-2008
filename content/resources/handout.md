@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 5c91f473-6c70-5367-a126-751fac4ff4b4
 resourcetype: Document
 title: Things You Need to Know For Future Essays
 uid: 07a6615b-d3d6-0f2a-710f-d33333fc9b57

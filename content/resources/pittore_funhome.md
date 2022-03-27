@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9208ebf1-f7f3-9dc1-df3b-6cc0bc7b0f93
 resourcetype: Document
 title: 'The Art of the Tragicomicbook: How Bechdel uses comics to her advantage in
   creating Fun Home'

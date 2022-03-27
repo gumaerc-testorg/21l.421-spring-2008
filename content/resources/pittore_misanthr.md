@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9208ebf1-f7f3-9dc1-df3b-6cc0bc7b0f93
 resourcetype: Document
 title: "Cheer Up, Emo Kid: Moli\xE8re's Commentary on Human Nature in The Misanthrope"
 uid: dff1897d-a816-4789-ac9b-7fbc325b3f7c

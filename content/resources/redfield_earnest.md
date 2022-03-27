@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9208ebf1-f7f3-9dc1-df3b-6cc0bc7b0f93
 resourcetype: Document
 title: 'The Ascendance of the Trivial: The Importance of Being Earnest as Seen through
   the Lens of Festival Comedy'

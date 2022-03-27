@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 5c91f473-6c70-5367-a126-751fac4ff4b4
 resourcetype: Document
 title: Using Comic Theory
 uid: f2ff8242-649e-0ad3-5e71-dc3e9dfc1692
