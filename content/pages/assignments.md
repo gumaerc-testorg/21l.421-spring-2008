@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the three essay assignments of the
+  course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -46,11 +48,11 @@ You will receive feedback on specific aspects of your essay to consider in your 
 
 ### Example Essays
 
-"Gender Role Reversal in _Twelfth Night_ and _The Rover_" by Ashley Perko ([PDF]({{< baseurl >}}/resources/perko_essay2rev))
+"Gender Role Reversal in _Twelfth Night_ and _The Rover_" by Ashley Perko ({{% resource_link f72b28e9-4f63-b47c-2ce8-88a58ad03d06 "PDF" %}})
 
-"Cheer Up, Emo Kid: Molière's Commentary on Human Nature in _The Misanthrope_" by Emily Pittore ([PDF]({{< baseurl >}}/resources/pittore_misanthr))
+"Cheer Up, Emo Kid: Molière's Commentary on Human Nature in _The Misanthrope_" by Emily Pittore ({{% resource_link dff1897d-a816-4789-ac9b-7fbc325b3f7c "PDF" %}})
 
-"We'll Strive to Please You Every Day: An Examination of Feste as Fool and Performer in Shakespeare's _Twelfth Night_" by Catherine Redfield ([PDF]({{< baseurl >}}/resources/redfield_twelfth))
+"We'll Strive to Please You Every Day: An Examination of Feste as Fool and Performer in Shakespeare's _Twelfth Night_" by Catherine Redfield ({{% resource_link d62cfb87-9076-de19-1c29-aff71a579f76 "PDF" %}})
 
 Essay 3 — Satire and Wit (Austen, Twain, Wilde, Calvino)
 --------------------------------------------------------
@@ -69,6 +71,6 @@ For this essay you have the option of a close reading of one work or a compariso
 
 ### Example Essays
 
-"The Art of the Tragicomicbook: How Bechdel uses comics to her advantage in creating _Fun Home_" by Emily Pittore ([PDF]({{< baseurl >}}/resources/pittore_funhome))
+"The Art of the Tragicomicbook: How Bechdel uses comics to her advantage in creating _Fun Home_" by Emily Pittore ({{% resource_link ec692dd8-ba8d-716d-fd6d-b41f480a6920 "PDF" %}})
 
-"The Ascendance of the Trivial: _The Importance of Being Earnest_ as Seen through the Lens of Festival Comedy" by Catherine Redfield ([PDF]({{< baseurl >}}/resources/redfield_earnest))
+"The Ascendance of the Trivial: _The Importance of Being Earnest_ as Seen through the Lens of Festival Comedy" by Catherine Redfield ({{% resource_link 807c4bf5-c424-778d-f5b0-923525e84c12 "PDF" %}})
