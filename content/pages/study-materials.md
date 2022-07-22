@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a list of papers, web sites, and other resources
+  as study materials for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 5c91f473-6c70-5367-a126-751fac4ff4b4
 ---
@@ -54,7 +58,7 @@ Available online for MIT community and at many libraries.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Guidelines for citing sources and quotations in your essays ([PDF]({{< baseurl >}}/resources/handout))
+Guidelines for citing sources and quotations in your essays ({{% resource_link 07a6615b-d3d6-0f2a-710f-d33333fc9b57 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -105,7 +109,7 @@ Includes journals in psychology, literature, history, and many other disciplines
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Greek and Roman Comedy ([PDF]({{< baseurl >}}/resources/greek_roman))
+Greek and Roman Comedy ({{% resource_link 512b6ac7-4335-b981-b57c-ac661c3206ba "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 A brief topic outline.
@@ -457,7 +461,7 @@ Includes new research on animal studies, evolution, and social theory of laughte
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Using comic theory ([PDF]({{< baseurl >}}/resources/using_theory))
+Using comic theory ({{% resource_link f2ff8242-649e-0ad3-5e71-dc3e9dfc1692 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Suggestions on applying comic theory (per the readings) to one's essay assignments.

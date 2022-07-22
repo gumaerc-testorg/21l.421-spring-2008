@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the list of required texts for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: b81a446b-d708-bb83-b516-69ef932eaf8d
 ---
@@ -9,7 +13,7 @@ Required Texts
 
 Although I would not ordinarily prescribe editions for classic works, we will read several in translation; try to have the same version others are using for those texts at least (Aristophanes, Plautus, Molière, Calvino).
 
-Additional supplemental readings are included on the [study materials]({{< baseurl >}}/pages/study-materials) page.
+Additional supplemental readings are included on the {{% resource_link 5c91f473-6c70-5367-a126-751fac4ff4b4 "study materials" %}} page.
 
 Note: All downloadable texts linked here are not the versions used in the course. Be aware that they may contain errors.
 
