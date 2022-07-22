@@ -7,6 +7,7 @@ file: /courses/21l-421-comedy-spring-2008/d62cfb879076de191c29aff71a579f76_redfi
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'We''ll Strive to Please You Every Day: An Examination of Feste as Fool a
 uid: d62cfb87-9076-de19-1c29-aff71a579f76
 ---
 Example of student work: "We'll Strive to Please You Every Day: An Examination of Feste as Fool and Performer in Shakespeare's Twelfth Night" by Catherine Redfield.
-

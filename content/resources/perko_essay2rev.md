@@ -6,6 +6,7 @@ file: /courses/21l-421-comedy-spring-2008/f72b28e94f63b47c2ce888a58ad03d06_perko
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Gender Role Reversal in Twelfth Night and The Rover
 uid: f72b28e9-4f63-b47c-2ce8-88a58ad03d06
 ---
 Example of student work: "Gender Role Reversal in Twelfth Night and The Rover" by Ashley Perko.
-
