@@ -31,7 +31,7 @@ DESCRIPTIONS AND CONTEXT
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[MIT Online Writing and Communication Center](http://web.mit.edu/writing/)
+{{% resource_link "efe945d1-3b56-4144-982f-6124a71a3411" "MIT Online Writing and Communication Center" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Information on MLA form for citation and the MIT style manual.
@@ -40,7 +40,7 @@ Information on MLA form for citation and the MIT style manual.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[The Mayfield Handbook of Technical and Scientific Writing](http://www.mhhe.com/mayfieldpub/tsw/home.htm)
+{{% resource_link "7d8f5189-c6be-4301-ba9b-043f54ed7f89" "The Mayfield Handbook of Technical and Scientific Writing" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Information and writing and citations.
@@ -49,7 +49,7 @@ Information and writing and citations.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Oxford English Dictionary](http://www.oed.com/)
+{{% resource_link "ec6eb2fc-9728-4e86-8cb9-251ab2e78524" "Oxford English Dictionary" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Available online for MIT community and at many libraries.
@@ -67,7 +67,7 @@ Guidelines for citing sources and quotations in your essays ({{% resource_link 0
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Glossary of Literary and Rhetorical Terms](http://jacklynch.net/Terms/)
+{{% resource_link "b05ab92b-1b27-4c75-968b-a6ab20b6392f" "Glossary of Literary and Rhetorical Terms" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 From Jack Lynch, Rutgers University: how you can tell an iamb from a dactyl!
@@ -118,7 +118,7 @@ A brief topic outline.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Bulfinch, Thomas. _The Age of Fable (Or, Beauties of Mythology)_. New York, NY: Review of Reviews Co., 1913. ([Download](http://www.bartleby.com/br/181.html) a version of the text from Bartleby.com)
+Bulfinch, Thomas. _The Age of Fable (Or, Beauties of Mythology)_. New York, NY: Review of Reviews Co., 1913. ({{% resource_link "3fb51f4a-d425-465a-95d2-81907bc83c2b" "Download" %}} a version of the text from Bartleby.com)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -127,7 +127,7 @@ Bulfinch, Thomas. _The Age of Fable (Or, Beauties of Mythology)_. New York, NY: 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Forum Romanum](http://www.forumromanum.org/index2.html)
+{{% resource_link "0d22649f-4cff-4c96-821b-cdc5c096aea9" "Forum Romanum" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Web site with a section on Greek and Roman mythology.
@@ -136,7 +136,7 @@ Web site with a section on Greek and Roman mythology.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Greek and Roman Comedy](http://www.theatrehistory.com/ancient/comedy001.html)
+{{% resource_link "29902933-eebd-4fe7-b075-5547c5b66a55" "Greek and Roman Comedy" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 From TheatreHistory.com. Selections from the literature on Greek and Roman theater, playwrights, and traditions.
@@ -145,7 +145,7 @@ From TheatreHistory.com. Selections from the literature on Greek and Roman theat
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[The Nature of the Amazons](http://pygmalionproject.tripod.com/amazons.html)
+{{% resource_link "34188d6b-507e-4e77-850e-0b7e8214e79e" "The Nature of the Amazons" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Images of Amazons on horseback.
@@ -165,20 +165,20 @@ Festivals, worship, images.
 {{< tdopen >}}
 
 
-[Ancient Greek Comedy](http://www.usu.edu/markdamen/ClasDram/chapters/081earlygkcom.htm)
+{{% resource_link "09a7934a-9715-47dd-843b-96a3cce986b3" "Ancient Greek Comedy" %}}
 
-[Roman Comedy: Plautus](http://www.usu.edu/markdamen/ClasDram/chapters/141plautus.htm)
+{{% resource_link "4399f7fc-355c-4f39-85a1-9bf89a8c6923" "Roman Comedy: Plautus" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Notes from Prof. Mark Damen's course [Classic Drama and Theatre](http://www.usu.edu/markdamen/ClasDram/coursedescription.htm) at Utah State University.
+Notes from Prof. Mark Damen's course {{% resource_link "ec038bdb-fcdc-4b55-8754-b5b12718f657" "Classic Drama and Theatre" %}} at Utah State University.
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Drunken Satyr–Phallic Art](http://commons.wikimedia.org/wiki/Image:Komos_Douris_BM_E768.jpg)
+{{% resource_link "1c052f85-327f-40f9-9db3-9e423d9c3099" "Drunken Satyr–Phallic Art" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Photo of a Greek vase painting, 6th-century BCE.
@@ -193,7 +193,7 @@ Photo of a Greek vase painting, 6th-century BCE.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Folger Shakespeare Library](http://www.folger.edu/)
+{{% resource_link "a05376bd-9927-44b2-8542-0b6f85e8f750" "Folger Shakespeare Library" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 A good place to find out what's happening in Shakespeare studies, performance, education, and culture today.
@@ -202,7 +202,7 @@ A good place to find out what's happening in Shakespeare studies, performance, e
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Shakespeare and the Book](http://ccnmtl.columbia.edu/projects/shakespeareandthebook/)
+{{% resource_link "b5445b96-a339-468b-8d93-e385647c44dd" "Shakespeare and the Book" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 An online exhibit of the First Folio and other Renaissance texts.
@@ -211,7 +211,7 @@ An online exhibit of the First Folio and other Renaissance texts.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Elizabethan Oaths, Curses, and Insults](http://www.renfaire.com/Language/insults.html)
+{{% resource_link "9f73eece-f2ca-4abf-a450-5192e63c4cb0" "Elizabethan Oaths, Curses, and Insults" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 How to make your own Shakespearean insults.
@@ -220,7 +220,7 @@ How to make your own Shakespearean insults.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Video: "[Tina Fey and the Shrew](http://www.nbc.com/Saturday_Night_Live/video/clips/tina-fey-on-update/221773/)"
+Video: "{{% resource_link "f6bb21a6-6f0a-4fc1-8e5a-54b2b4397197" "Tina Fey and the Shrew" %}}"
 {{< tdclose >}}
 {{< tdopen >}}
 Tina Fey on Hillary Clinton, declares her inner bitch. From NBC's _Saturday Night Live_, February 22, 2008.
@@ -332,7 +332,7 @@ Pacheco, Anita. "Rape and the Female Subject in Aphra Behn's The Rover." _Englis
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[PBS: Mark Twain](http://www.pbs.org/marktwain/index.html)
+{{% resource_link "66884ec5-cd87-447b-aa7d-78919ac0d1a4" "PBS: Mark Twain" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Web site for the Ken Burns film with "scrapbook" materials.
@@ -341,7 +341,7 @@ Web site for the Ken Burns film with "scrapbook" materials.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Mark Twain in His Times](http://etext.lib.virginia.edu/railton/index2.html)
+{{% resource_link "bbfe45b9-340f-4ff1-b235-11f0fd265bea" "Mark Twain in His Times" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Web site by Stephen Railton, University of Virginia.
@@ -350,7 +350,7 @@ Web site by Stephen Railton, University of Virginia.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[American Authors: Mark Twain](http://www.wsu.edu/~campbelld/amlit/twain.htm)
+{{% resource_link "6fc12c78-a78f-48be-8148-9a734cc730bb" "American Authors: Mark Twain" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Compiliation of resources by Dr. Donna Campbell, Washington State University.
@@ -359,7 +359,7 @@ Compiliation of resources by Dr. Donna Campbell, Washington State University.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Mark Twain House and Museum](http://www.marktwainhouse.org/)
+{{% resource_link "e8586e81-7e6d-4950-b5fb-295bd8391cc0" "Mark Twain House and Museum" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -383,7 +383,7 @@ Craft, Christopher. "Alias Bunbury: Desire and Termination in _The Importance of
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-"[The Decay of Lying: An Observation](http://www.mnstate.edu/gracyk/courses/phil%20of%20art/wildetext.htm)"
+"{{% resource_link "5c57d647-91df-4cdf-8df4-6955f13b0e2e" "The Decay of Lying: An Observation" %}}"
 {{< tdclose >}}
 {{< tdopen >}}
 Wilde's 1889 essay, presented here in full.
@@ -392,7 +392,7 @@ Wilde's 1889 essay, presented here in full.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[The Victorian Web](http://www.victorianweb.org/)
+{{% resource_link "965a144d-b5c4-470f-86e0-077d8d7d6965" "The Victorian Web" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 A fabulous archive.
@@ -416,7 +416,7 @@ Aristotle's reported theory of comedy compared to tragedy, from a recent transla
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262520249) Bakhtin, M.M. "Rabelais in the History of Laughter." In [_Rabelais and His World_](https://mitpress.mit.edu/9780262520249). Translated by Helene Iswolsky. Cambridge, MA: MIT Press, 1971, pp. 66-96. ISBN: 9780262520249.
+{{% resource_link "478eaa13-abfe-4093-8cdf-33ca3ea1780b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bakhtin, M.M. "Rabelais in the History of Laughter." In {{% resource_link "478eaa13-abfe-4093-8cdf-33ca3ea1780b" "_Rabelais and His World_" %}}. Translated by Helene Iswolsky. Cambridge, MA: MIT Press, 1971, pp. 66-96. ISBN: 9780262520249.
 {{< tdclose >}}
 {{< tdopen >}}
 Mikhail Bakhtin (1895-1975) was one of a group of Russian thinkers (some of whom he mentions here) who were responding to Russian Formalist ideas. Literature, for Bakhtin, is a formal structural system, but also part of the ideological/historical place and movement that produces it. In this excerpt from Chapter One of _Rabelais and His World_ (1941; translated 1965), Bakhtin discusses the medieval feasts and festivals, such as the Feast of Fools and (my favorite) Feast of the Ass. This healing, regenerating "lower body" laughter eventually moves from the marketplace to "great literature", such as Rabelais' novel Gargantuan and Pantagruel (1530's-50's) where, Bakhtin says, "It became the form of a new free and critical consciousness." (97) Thus, the social and historical practice is translated to a literary form.
@@ -452,7 +452,7 @@ George Meredith (1808-1909) was a late Victorian novelist and poet, author of th
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[NPR Radio Lab segment on Laughter](https://www.wnycstudios.org/podcasts/radiolab/episodes/91588-laughter)
+{{% resource_link "9d43a8ba-e8f1-4c0a-bd75-ad7297e1d391" "NPR Radio Lab segment on Laughter" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Includes new research on animal studies, evolution, and social theory of laughter.
@@ -476,7 +476,7 @@ Suggestions on applying comic theory (per the readings) to one's essay assignmen
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Chute, Hillary. "[Gothic Revival: Tracing the Roots of Alison Bechdel's Exhilarating New "tragicomic," _Fun Home_.](http://www.villagevoice.com/arts/gothic-revival-7158351)" _Village Voice_, July 4 2006.
+Chute, Hillary. "{{% resource_link "c1515a5b-c588-44e0-836b-ff9caaab748b" "Gothic Revival: Tracing the Roots of Alison Bechdel's Exhilarating New \"tragicomic,\" _Fun Home_." %}}" _Village Voice_, July 4 2006.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -485,7 +485,7 @@ Chute, Hillary. "[Gothic Revival: Tracing the Roots of Alison Bechdel's Exhilara
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Dykes to Watch Out For](http://www.dykestowatchoutfor.com/index.php)
+{{% resource_link "576781da-c1d7-43f6-9f38-c0f646945508" "Dykes to Watch Out For" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Alison Bechdel's Web site and blog.
@@ -494,7 +494,7 @@ Alison Bechdel's Web site and blog.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Wilsey, Sean. "[The Things They Buried](http://www.nytimes.com/2006/06/18/books/review/18wilsey.html?_r=1&oref=slogin)." _The New York Times_, June 18 2006.
+Wilsey, Sean. "{{% resource_link "28b1fd90-8aa9-408f-b7f1-026132aa20e3" "The Things They Buried" %}}." _The New York Times_, June 18 2006.
 {{< tdclose >}}
 {{< tdopen >}}
 Review of Bechdel's _Fun Home_.
