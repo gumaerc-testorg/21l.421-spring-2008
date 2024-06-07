@@ -2,6 +2,7 @@
 content_type: resource
 description: A brief outline of topics in Greek and Roman comedy.
 file: /courses/21l-421-comedy-spring-2008/512b6ac74335b981b57cac661c3206ba_greek_roman.pdf
+file_size: 81208
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
