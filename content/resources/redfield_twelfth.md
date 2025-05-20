@@ -3,7 +3,7 @@ content_type: resource
 description: 'Example of student work: "We''ll Strive to Please You Every Day: An
   Examination of Feste as Fool and Performer in Shakespeare''s Twelfth Night" by Catherine
   Redfield.'
-file: /ol-ocw-studio-app/courses/21l-421-comedy-spring-2008/d62cfb879076de191c29aff71a579f76_redfield_twelfth.pdf
+file: /courses/21l-421-comedy-spring-2008/d62cfb879076de191c29aff71a579f76_redfield_twelfth.pdf
 file_size: 124968
 file_type: application/pdf
 learning_resource_types:
