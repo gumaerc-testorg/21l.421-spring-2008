@@ -2,7 +2,7 @@
 content_type: resource
 description: "Example of student work: \"Cheer Up, Emo Kid: Moli\xE8re's Commentary\
   \ on Human Nature in The Misanthrope\" by Emily Pittore."
-file: /courses/21l-421-comedy-spring-2008/dff1897da8164789ac9b7fbc325b3f7c_pittore_misanthr.pdf
+file: /ol-ocw-studio-app/courses/21l-421-comedy-spring-2008/dff1897da8164789ac9b7fbc325b3f7c_pittore_misanthr.pdf
 file_size: 120271
 file_type: application/pdf
 learning_resource_types:
