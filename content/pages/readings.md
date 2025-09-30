@@ -16,23 +16,23 @@ Additional supplemental readings are included on the {{% resource_link "5c91f473
 
 Note: All downloadable texts linked here are not the versions used in the course. Be aware that they may contain errors.
 
-Aristophanes. *Four Plays by Aristophanes: The Clouds, the Birds, Lysistrata, the Frogs*. Translated by William Arrowsmith. New York, NY: Plume Books, 1994. ISBN: 9780452007178. ([Download](http://www.gutenberg.org/etext/7700) a version of the text from Project Gutenberg.)
+Aristophanes. *Four Plays by Aristophanes: The Clouds, the Birds, Lysistrata, the Frogs*. Translated by William Arrowsmith. New York, NY: Plume Books, 1994. ISBN: 9780452007178. ({{% resource_link "c6475f3b-f179-4761-b8a9-392b4e7e8bf6" "Download" %}} a version of the text from Project Gutenberg.)
 
 Plautus, Titus Maccius. *Four Comedies: The Braggart Soldier, The Brothers Menaechmus, The Haunted House, The Pot of Gold*. Translated by Erich Segal. New York, NY: Oxford University Press, 1998. ISBN: 9780192838964.
 
-Shakespeare, William. *The Comedy of Errors*. New York, NY: Washington Square Press, 1996. ISBN: 9780671722579. ([Download](http://www.gutenberg.org/etext/1504) a version of the text from Project Gutenberg.)
+Shakespeare, William. *The Comedy of Errors*. New York, NY: Washington Square Press, 1996. ISBN: 9780671722579. ({{% resource_link "f393f0b3-8d9e-4654-9830-5d6f583c4ce0" "Download" %}} a version of the text from Project Gutenberg.)
 
 ———. *Four Comedies*. Edited by G. R. Hibbard and S. Wells. New York, NY: Penguin Classics, 1995. ISBN: 9780140434545.
 
-Moliere, Jean Baptiste Poquelin. *The Misanthrope and Tartuffe*. Translated by Richard Wilbur. Fort Washington, PA: Harvest Books, 1965. ISBN: 9780156605175. ([Download](http://www.bibliomania.com/0/6/4/1049/frameset.html) a version of the text from Bibliomania.)
+Moliere, Jean Baptiste Poquelin. *The Misanthrope and Tartuffe*. Translated by Richard Wilbur. Fort Washington, PA: Harvest Books, 1965. ISBN: 9780156605175. ({{% resource_link "31993a4f-ffec-4eb2-84fc-263d69c9e4d3" "Download" %}} a version of the text from Bibliomania.)
 
 Behn, Aphra. *The Rover and Other Plays*. Edited by Jane Spencer. New York, NY: Oxford University Press, 2000. ISBN: 9780192834515.
 
 Austen, Jane. *Pride and Prejudice*. Edited by J. Kisley, with F. W. Bradbrook and I. Armstrong. New York, NY: Oxford University Press, 1998. ISBN: 9780192833556.
 
-Twain, Mark. *The Tragedy of Pudd'nhead Wilson and the Comedy Those Extraordinary Twins*. Edited by Shelley Fisher Fishkin. New York, NY: Oxford University Press, 1997. ISBN: 9780195114157. ([Download](http://www.gutenberg.org/etext/102) a version of the text from Project Gutenberg.)
+Twain, Mark. *The Tragedy of Pudd'nhead Wilson and the Comedy Those Extraordinary Twins*. Edited by Shelley Fisher Fishkin. New York, NY: Oxford University Press, 1997. ISBN: 9780195114157. ({{% resource_link "64ab6788-2429-4a3d-86b6-87c553af49c6" "Download" %}} a version of the text from Project Gutenberg.)
 
-Wilde, Oscar, and Sylvan Barnet. *The Importance of Being Earnest and Other Plays*. New York, NY: Signet Books, 1985. ISBN: 9780451525055. ([Download](http://www.gutenberg.org/etext/844) a version of the text from Project Gutenberg.)
+Wilde, Oscar, and Sylvan Barnet. *The Importance of Being Earnest and Other Plays*. New York, NY: Signet Books, 1985. ISBN: 9780451525055. ({{% resource_link "edb51f3b-8a1a-42a4-bb8b-960faae2507e" "Download" %}} a version of the text from Project Gutenberg.)
 
 Calvino, Italo. *Cosmicomics*. Translated by William Weaver. New York, NY: Harvest/HBJ, 1976. ISBN: 9780156226004.
 
