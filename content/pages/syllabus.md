@@ -376,7 +376,7 @@ This is a discussion course where your attendance and participation in class are
     > 
     > PLAGIARISM—the use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work.
     > 
-    > For further guidance on the proper forms of attribution (MLA Works Cited format) consult the style guides available in the [Writing and Communication Center](http://web.mit.edu/writing/), and their Web site on Plagiarism.
+    > For further guidance on the proper forms of attribution (MLA Works Cited format) consult the style guides available in the {{% resource_link "af34afbd-b598-42c0-8785-0e6267b5f327" "Writing and Communication Center" %}}, and their Web site on Plagiarism.
     
 4.  Conferences: Each student will meet with the writing specialist to go over drafts for essays and the revision; these meetings will be scheduled as soon as possible in the beginning of the term. Students will also meet with the instructor at least once during the term to discuss essays and writing. Other conferences are strongly encouraged, and you may also consult the Writing and Communication Center.
 
@@ -386,9 +386,9 @@ Screenings take place Wednesday evenings outside of normal class time. Attendanc
 
 The films screened are:
 
-[_Some Like it Hot_](http://www.imdb.com/title/tt0053291/). Directed by Billy Wilder, 1959.  
-[_Bringing Up Baby_](http://www.imdb.com/title/tt0029947/). Directed by Howard Hawks, 1938.  
-[_Twelfth Night_](http://www.imdb.com/title/tt0117991/). Directed by Trevor Nunn, 1996.  
-[_Ridicule_](http://www.imdb.com/title/tt0117477/). Directed by Patrice Leconte, 1996.  
-[_The Importance of Being Earnest_](http://www.imdb.com/title/tt0044744/) (earlier version). Directed by Anthony Asquith, 1952.  
-[_Modern Times_](http://www.imdb.com/title/tt0027977/). Directed by Charlie Chaplin, 1936.
+{{% resource_link "aa486e23-1c13-4dcc-9557-879f138b228c" "_Some Like it Hot_" %}}. Directed by Billy Wilder, 1959.  
+{{% resource_link "9dcc7e4b-0ece-4478-988c-cbdbe42d233b" "_Bringing Up Baby_" %}}. Directed by Howard Hawks, 1938.  
+{{% resource_link "7889b723-c628-4677-9d33-79642aa1a781" "_Twelfth Night_" %}}. Directed by Trevor Nunn, 1996.  
+{{% resource_link "e9a419f8-2ee0-4006-bf94-d8f33884f6fc" "_Ridicule_" %}}. Directed by Patrice Leconte, 1996.  
+{{% resource_link "ceee2d8c-1723-47ef-96a6-ad451f8b6036" "_The Importance of Being Earnest_" %}} (earlier version). Directed by Anthony Asquith, 1952.  
+{{% resource_link "a8ee1077-86e4-4154-bd91-1fe20587c73f" "_Modern Times_" %}}. Directed by Charlie Chaplin, 1936.
